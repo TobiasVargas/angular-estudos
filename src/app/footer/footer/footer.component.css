@@ -1,0 +1,11 @@
+.blockquote-footer::before {
+    content: "" !important;
+}
+
+.icons-redes-sociais {
+    font-size: 20pt;
+}
+
+.p-rodape {
+    font-size: 15pt;
+}
